@@ -1,0 +1,16 @@
+name = "Turtle's Optimize Modpack"
+author = "Aturtle6813"
+version = "mc1.21.1-1.2.7"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "31d653664509df23ca451d30e929640a2fca9bd715a2d48f8b419f040ddd7b21"
+
+[versions]
+fabric = "0.16.7"
+minecraft = "1.21.1"
+
+[options]
+acceptable-game-versions = ["1.21", "1.21.1", "1.21.x"]
